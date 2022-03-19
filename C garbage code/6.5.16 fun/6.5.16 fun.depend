@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1465075650 source:g:\my work\practice\c practice\6.5.16 fun\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

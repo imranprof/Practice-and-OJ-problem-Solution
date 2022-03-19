@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1464722123 source:g:\my work\practice\c practice\c++ led blinking\main.cpp
+	<iostream>
+	<Windows.h>
+

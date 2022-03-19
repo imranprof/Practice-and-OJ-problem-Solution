@@ -1,0 +1,21 @@
+#include<stdio.h>
+
+int main()
+{
+    int n;
+
+    scanf("%d", &n);
+
+    if (n > 0 && (n & (n - 1)) == 0) {      // if n & (n - 1) equal to 0 then
+
+        printf("%d is power of 2\n", n);
+    }
+
+    else {
+
+        printf("%d is NOT power of 2\n", n);
+    }
+
+
+    return 0;
+}

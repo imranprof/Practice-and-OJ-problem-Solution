@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1514792005 source:f:\my work\practice\cp book 2nd part\part10 debuging\10.5 codeblocks debug step1\10_5debug\main.c
+	<stdio.h>
+	<stdlib.h>
+

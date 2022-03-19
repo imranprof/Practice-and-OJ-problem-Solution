@@ -1,0 +1,8 @@
+.page h1,h2
+{
+ color:red;
+ border:10px solid gray;
+ text-align:center;
+ font-size:30px;
+ 
+}

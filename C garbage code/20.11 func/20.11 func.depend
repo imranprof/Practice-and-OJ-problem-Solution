@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1479586523 source:g:\my work\practice\c practice\20.11 func\main.c
+	<stdio.h>
+	<math.h>
+
+1479586711 source:f:\my work\practice\c practice\20.11 func\main.c
+	<stdio.h>
+	<math.h>
+
